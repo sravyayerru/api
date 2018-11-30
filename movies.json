@@ -1,0 +1,16 @@
+{
+    "title": "The Basics - Networking",
+    "description": "Your app fetched this from a remote endpoint!",
+    "movies": [
+      { "id": "1", "title": "bharatiyudu", "releaseYear": "1977" },
+      { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
+      { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
+      { "id": "4", "title": "Inception", "releaseYear": "2010" },
+      { "id": "5", "title": "Interstellar", "releaseYear": "2014" },
+      { "id": "6", "title": "Bahubali", "releaseYear": "2015" },
+      { "id": "7", "title": "chalo", "releaseYear": "2016" },
+      { "id": "8", "title": "ninnu kori", "releaseYear": "2017" },
+      { "id": "9", "title": "gentlemen", "releaseYear": "2018" },
+      { "id": "10", "title": "robo", "releaseYear": "2018" }
+    ]
+  }
